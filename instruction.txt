@@ -1,0 +1,26 @@
+create a python API project by following below instruction.
+routes:
+1. basic health check route to return 200, publically accessible
+2. get route for fetching providers which should accept query and stateCode as 2 query parameters
+
+service:
+1. create provider search service which should have one public function called search providers and being called from respective route. do not implement logic
+
+model:
+create simple provider model with below properties
+name - mandatory str field
+gender - mandatory str field
+education - mandatory str field
+reviews - mandatory float
+city - mandatory str
+state - mandatory str
+zip_code - mandatory str
+specializations - mandatory str list
+year_of_experience - mandatory int
+known_languages - mandatory str list
+cost_efficiency - mandatory int
+
+create pytest for generated code 
+create openapi doc for the exposed routes and expose doc as publically accessible routes
+
+use virtual environment for py package installation
