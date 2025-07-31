@@ -1,0 +1,5 @@
+1. follow the readme
+2. install java from company portal
+3. download and install opensearch bat 
+4. set user and password 
+5. execute the setup_opensearch_collection

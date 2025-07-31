@@ -1,0 +1,1902 @@
+[
+  {
+    "name": "Johnson",
+    "gender": "Male",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 4.2,
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10001",
+    "year_of_experience": 15,
+    "cost_efficiency": 5,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish"
+    ]
+  },
+  {
+    "name": "Williams",
+    "gender": "Female",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 4.8,
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10001",
+    "year_of_experience": 12,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "French"
+    ]
+  },
+  {
+    "name": "Kennedy",
+    "gender": "Male",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 3.9,
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10001",
+    "year_of_experience": 8,
+    "cost_efficiency": 2,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Female",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.5,
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10001",
+    "year_of_experience": 20,
+    "cost_efficiency": 3,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  {
+    "name": "Johnathan",
+    "gender": "Male",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 4.1,
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10001",
+    "year_of_experience": 18,
+    "cost_efficiency": 4,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "German"
+    ]
+  },
+  {
+    "name": "Willow",
+    "gender": "Female",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 4.7,
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10001",
+    "year_of_experience": 14,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Pediatric Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Italian"
+    ]
+  },
+  {
+    "name": "Kenneth",
+    "gender": "Male",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 3.8,
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10001",
+    "year_of_experience": 11,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Pediatric Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Portuguese"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Female",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.3,
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10001",
+    "year_of_experience": 16,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Pediatric Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Mandarin"
+    ]
+  },
+  {
+    "name": "Johnston",
+    "gender": "Male",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 4.0,
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10001",
+    "year_of_experience": 9,
+    "cost_efficiency": 4,
+    "specializations": [
+      "General Dentistry",
+      "Pediatric Dentistry"
+    ],
+    "known_languages": [
+      "English"
+    ]
+  },
+  {
+    "name": "William",
+    "gender": "Male",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 4.6,
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10001",
+    "year_of_experience": 22,
+    "cost_efficiency": 4,
+    "specializations": [
+      "General Dentistry",
+      "Cosmetic Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish"
+    ]
+  },
+  {
+    "name": "Kennedy",
+    "gender": "Female",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 4.4,
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip_code": "90001",
+    "year_of_experience": 13,
+    "cost_efficiency": 5,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "French"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Female",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.9,
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip_code": "90001",
+    "year_of_experience": 19,
+    "cost_efficiency": 4,
+    "specializations": [
+      "General Dentistry",
+      "Pediatric Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  {
+    "name": "Johnson",
+    "gender": "Male",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 3.7,
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip_code": "90001",
+    "year_of_experience": 7,
+    "cost_efficiency": 2,
+    "specializations": [
+      "General Dentistry",
+      "Family Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "German"
+    ]
+  },
+  {
+    "name": "Williams",
+    "gender": "Male",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 4.2,
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip_code": "90001",
+    "year_of_experience": 15,
+    "cost_efficiency": 3,
+    "specializations": [
+      "General Dentistry",
+      "Pediatric Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Italian"
+    ]
+  },
+  {
+    "name": "Kenneth",
+    "gender": "Female",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 4.1,
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip_code": "90001",
+    "year_of_experience": 10,
+    "cost_efficiency": 4,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "Portuguese"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Male",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.5,
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip_code": "90001",
+    "year_of_experience": 17,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "Mandarin"
+    ]
+  },
+  {
+    "name": "Johnathan",
+    "gender": "Female",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 3.9,
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip_code": "90001",
+    "year_of_experience": 6,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English"
+    ]
+  },
+  {
+    "name": "Willow",
+    "gender": "Male",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 4.3,
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip_code": "90001",
+    "year_of_experience": 21,
+    "cost_efficiency": 4,
+    "specializations": [
+      "General Dentistry",
+      "Family Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish"
+    ]
+  },
+  {
+    "name": "Kennedy",
+    "gender": "Female",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 4.0,
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip_code": "90001",
+    "year_of_experience": 12,
+    "cost_efficiency": 2,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "French"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Male",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.7,
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip_code": "90001",
+    "year_of_experience": 18,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  {
+    "name": "Johnson",
+    "gender": "Female",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 4.4,
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60601",
+    "year_of_experience": 14,
+    "cost_efficiency": 5,
+    "specializations": [
+      "General Dentistry",
+      "Family Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "German"
+    ]
+  },
+  {
+    "name": "Williams",
+    "gender": "Male",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 3.8,
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60601",
+    "year_of_experience": 9,
+    "cost_efficiency": 2,
+    "specializations": [
+      "General Dentistry",
+      "Pediatric Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Italian"
+    ]
+  },
+  {
+    "name": "Kenneth",
+    "gender": "Female",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 4.6,
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60601",
+    "year_of_experience": 16,
+    "cost_efficiency": 4,
+    "specializations": [
+      "General Dentistry",
+      "Pediatric Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Portuguese"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Male",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.1,
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60601",
+    "year_of_experience": 11,
+    "cost_efficiency": 5,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "Mandarin"
+    ]
+  },
+  {
+    "name": "Johnathan",
+    "gender": "Female",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 3.9,
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60601",
+    "year_of_experience": 8,
+    "cost_efficiency": 5,
+    "specializations": [
+      "General Dentistry",
+      "Family Dentistry"
+    ],
+    "known_languages": [
+      "English"
+    ]
+  },
+  {
+    "name": "Willow",
+    "gender": "Male",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 4.5,
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60601",
+    "year_of_experience": 20,
+    "cost_efficiency": 4,
+    "specializations": [
+      "General Dentistry",
+      "Cosmetic Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish"
+    ]
+  },
+  {
+    "name": "Kennedy",
+    "gender": "Female",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 4.2,
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60601",
+    "year_of_experience": 13,
+    "cost_efficiency": 4,
+    "specializations": [
+      "General Dentistry",
+      "Pediatric Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "French"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Male",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.8,
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60601",
+    "year_of_experience": 17,
+    "cost_efficiency": 2,
+    "specializations": [
+      "General Dentistry",
+      "Family Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  {
+    "name": "Johnson",
+    "gender": "Female",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 3.7,
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60601",
+    "year_of_experience": 10,
+    "cost_efficiency": 3,
+    "specializations": [
+      "General Dentistry",
+      "Cosmetic Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "German"
+    ]
+  },
+  {
+    "name": "Williams",
+    "gender": "Male",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 4.3,
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60601",
+    "year_of_experience": 15,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "Italian"
+    ]
+  },
+  {
+    "name": "Kenneth",
+    "gender": "Female",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 4.0,
+    "city": "Houston",
+    "state": "TX",
+    "zip_code": "77001",
+    "year_of_experience": 12,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Cosmetic Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Portuguese"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Male",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.6,
+    "city": "Houston",
+    "state": "TX",
+    "zip_code": "77001",
+    "year_of_experience": 19,
+    "cost_efficiency": 4,
+    "specializations": [
+      "General Dentistry",
+      "Family Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Mandarin"
+    ]
+  },
+  {
+    "name": "Johnathan",
+    "gender": "Female",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 3.8,
+    "city": "Houston",
+    "state": "TX",
+    "zip_code": "77001",
+    "year_of_experience": 7,
+    "cost_efficiency": 4,
+    "specializations": [
+      "General Dentistry",
+      "Family Dentistry"
+    ],
+    "known_languages": [
+      "English"
+    ]
+  },
+  {
+    "name": "Willow",
+    "gender": "Male",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 4.4,
+    "city": "Houston",
+    "state": "TX",
+    "zip_code": "77001",
+    "year_of_experience": 18,
+    "cost_efficiency": 5,
+    "specializations": [
+      "General Dentistry",
+      "Cosmetic Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish"
+    ]
+  },
+  {
+    "name": "Kennedy",
+    "gender": "Female",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 4.1,
+    "city": "Houston",
+    "state": "TX",
+    "zip_code": "77001",
+    "year_of_experience": 14,
+    "cost_efficiency": 5,
+    "specializations": [
+      "General Dentistry",
+      "Cosmetic Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "French"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Male",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.7,
+    "city": "Houston",
+    "state": "TX",
+    "zip_code": "77001",
+    "year_of_experience": 16,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Pediatric Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  {
+    "name": "Johnson",
+    "gender": "Female",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 3.9,
+    "city": "Houston",
+    "state": "TX",
+    "zip_code": "77001",
+    "year_of_experience": 11,
+    "cost_efficiency": 4,
+    "specializations": [
+      "General Dentistry",
+      "Pediatric Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "German"
+    ]
+  },
+  {
+    "name": "Williams",
+    "gender": "Male",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 4.5,
+    "city": "Houston",
+    "state": "TX",
+    "zip_code": "77001",
+    "year_of_experience": 20,
+    "cost_efficiency": 4,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "Italian"
+    ]
+  },
+  {
+    "name": "Kenneth",
+    "gender": "Female",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 4.2,
+    "city": "Houston",
+    "state": "TX",
+    "zip_code": "77001",
+    "year_of_experience": 13,
+    "cost_efficiency": 2,
+    "specializations": [
+      "General Dentistry",
+      "Pediatric Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Portuguese"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Male",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.8,
+    "city": "Houston",
+    "state": "TX",
+    "zip_code": "77001",
+    "year_of_experience": 15,
+    "cost_efficiency": 4,
+    "specializations": [
+      "General Dentistry",
+      "Pediatric Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Mandarin"
+    ]
+  },
+  {
+    "name": "Johnathan",
+    "gender": "Female",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 3.7,
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10001",
+    "year_of_experience": 9,
+    "cost_efficiency": 2,
+    "specializations": [
+      "General Dentistry",
+      "Pediatric Dentistry"
+    ],
+    "known_languages": [
+      "English"
+    ]
+  },
+  {
+    "name": "Willow",
+    "gender": "Male",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 4.3,
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10001",
+    "year_of_experience": 17,
+    "cost_efficiency": 4,
+    "specializations": [
+      "General Dentistry",
+      "Pediatric Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish"
+    ]
+  },
+  {
+    "name": "Kennedy",
+    "gender": "Female",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 4.0,
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10001",
+    "year_of_experience": 12,
+    "cost_efficiency": 2,
+    "specializations": [
+      "General Dentistry",
+      "Cosmetic Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "French"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Male",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.6,
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10001",
+    "year_of_experience": 19,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Pediatric Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  {
+    "name": "Johnson",
+    "gender": "Female",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 3.8,
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10001",
+    "year_of_experience": 10,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "German"
+    ]
+  },
+  {
+    "name": "Williams",
+    "gender": "Male",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 4.4,
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10001",
+    "year_of_experience": 16,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "Italian"
+    ]
+  },
+  {
+    "name": "Kenneth",
+    "gender": "Female",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 4.1,
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10001",
+    "year_of_experience": 14,
+    "cost_efficiency": 4,
+    "specializations": [
+      "General Dentistry",
+      "Cosmetic Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Portuguese"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Male",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.7,
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10001",
+    "year_of_experience": 18,
+    "cost_efficiency": 2,
+    "specializations": [
+      "General Dentistry",
+      "Pediatric Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Mandarin"
+    ]
+  },
+  {
+    "name": "Johnathan",
+    "gender": "Female",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 3.9,
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10001",
+    "year_of_experience": 8,
+    "cost_efficiency": 3,
+    "specializations": [
+      "General Dentistry",
+      "Family Dentistry"
+    ],
+    "known_languages": [
+      "English"
+    ]
+  },
+  {
+    "name": "Willow",
+    "gender": "Male",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 4.5,
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10001",
+    "year_of_experience": 21,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Cosmetic Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish"
+    ]
+  },
+  {
+    "name": "Kennedy",
+    "gender": "Female",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 4.2,
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60614",
+    "year_of_experience": 15,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Cosmetic Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "French"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Male",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.8,
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60614",
+    "year_of_experience": 20,
+    "cost_efficiency": 2,
+    "specializations": [
+      "General Dentistry",
+      "Cosmetic Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  {
+    "name": "Johnson",
+    "gender": "Female",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 3.7,
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60614",
+    "year_of_experience": 11,
+    "cost_efficiency": 3,
+    "specializations": [
+      "General Dentistry",
+      "Family Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "German"
+    ]
+  },
+  {
+    "name": "Williams",
+    "gender": "Male",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 4.3,
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60614",
+    "year_of_experience": 17,
+    "cost_efficiency": 2,
+    "specializations": [
+      "General Dentistry",
+      "Family Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Italian"
+    ]
+  },
+  {
+    "name": "Kenneth",
+    "gender": "Female",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 4.0,
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60614",
+    "year_of_experience": 13,
+    "cost_efficiency": 5,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "Portuguese"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Male",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.6,
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60614",
+    "year_of_experience": 16,
+    "cost_efficiency": 3,
+    "specializations": [
+      "General Dentistry",
+      "Cosmetic Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Mandarin"
+    ]
+  },
+  {
+    "name": "Johnathan",
+    "gender": "Female",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 3.8,
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60614",
+    "year_of_experience": 9,
+    "cost_efficiency": 2,
+    "specializations": [
+      "General Dentistry",
+      "Cosmetic Dentistry"
+    ],
+    "known_languages": [
+      "English"
+    ]
+  },
+  {
+    "name": "Willow",
+    "gender": "Male",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 4.4,
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60614",
+    "year_of_experience": 19,
+    "cost_efficiency": 2,
+    "specializations": [
+      "General Dentistry",
+      "Cosmetic Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish"
+    ]
+  },
+  {
+    "name": "Kennedy",
+    "gender": "Female",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 4.1,
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60614",
+    "year_of_experience": 14,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Family Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "French"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Male",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.7,
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60614",
+    "year_of_experience": 18,
+    "cost_efficiency": 3,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  {
+    "name": "Johnson",
+    "gender": "Female",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 3.9,
+    "city": "San Antonio",
+    "state": "TX",
+    "zip_code": "78201",
+    "year_of_experience": 12,
+    "cost_efficiency": 2,
+    "specializations": [
+      "General Dentistry",
+      "Family Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "German"
+    ]
+  },
+  {
+    "name": "Williams",
+    "gender": "Male",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 4.5,
+    "city": "San Antonio",
+    "state": "TX",
+    "zip_code": "78201",
+    "year_of_experience": 20,
+    "cost_efficiency": 4,
+    "specializations": [
+      "General Dentistry",
+      "Family Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Italian"
+    ]
+  },
+  {
+    "name": "Kenneth",
+    "gender": "Female",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 4.2,
+    "city": "San Antonio",
+    "state": "TX",
+    "zip_code": "78201",
+    "year_of_experience": 15,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Pediatric Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Portuguese"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Male",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.8,
+    "city": "San Antonio",
+    "state": "TX",
+    "zip_code": "78201",
+    "year_of_experience": 17,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "Mandarin"
+    ]
+  },
+  {
+    "name": "Johnathan",
+    "gender": "Female",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 3.7,
+    "city": "San Antonio",
+    "state": "TX",
+    "zip_code": "78201",
+    "year_of_experience": 8,
+    "cost_efficiency": 2,
+    "specializations": [
+      "General Dentistry",
+      "Family Dentistry"
+    ],
+    "known_languages": [
+      "English"
+    ]
+  },
+  {
+    "name": "Willow",
+    "gender": "Male",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 4.3,
+    "city": "San Antonio",
+    "state": "TX",
+    "zip_code": "78201",
+    "year_of_experience": 16,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Family Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish"
+    ]
+  },
+  {
+    "name": "Kennedy",
+    "gender": "Female",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 4.0,
+    "city": "San Antonio",
+    "state": "TX",
+    "zip_code": "78201",
+    "year_of_experience": 13,
+    "cost_efficiency": 2,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "French"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Male",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.6,
+    "city": "San Antonio",
+    "state": "TX",
+    "zip_code": "78201",
+    "year_of_experience": 19,
+    "cost_efficiency": 4,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  {
+    "name": "Johnson",
+    "gender": "Female",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 3.8,
+    "city": "San Antonio",
+    "state": "TX",
+    "zip_code": "78201",
+    "year_of_experience": 10,
+    "cost_efficiency": 3,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "German"
+    ]
+  },
+  {
+    "name": "Williams",
+    "gender": "Male",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 4.4,
+    "city": "San Antonio",
+    "state": "TX",
+    "zip_code": "78201",
+    "year_of_experience": 18,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Cosmetic Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Italian"
+    ]
+  },
+  {
+    "name": "Kenneth",
+    "gender": "Female",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 4.1,
+    "city": "San Diego",
+    "state": "CA",
+    "zip_code": "92101",
+    "year_of_experience": 14,
+    "cost_efficiency": 4,
+    "specializations": [
+      "General Dentistry",
+      "Pediatric Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Portuguese"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Male",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.7,
+    "city": "San Diego",
+    "state": "CA",
+    "zip_code": "92101",
+    "year_of_experience": 21,
+    "cost_efficiency": 4,
+    "specializations": [
+      "General Dentistry",
+      "Family Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Mandarin"
+    ]
+  },
+  {
+    "name": "Johnathan",
+    "gender": "Female",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 3.9,
+    "city": "San Diego",
+    "state": "CA",
+    "zip_code": "92101",
+    "year_of_experience": 7,
+    "cost_efficiency": 5,
+    "specializations": [
+      "General Dentistry",
+      "Family Dentistry"
+    ],
+    "known_languages": [
+      "English"
+    ]
+  },
+  {
+    "name": "Willow",
+    "gender": "Male",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 4.5,
+    "city": "San Diego",
+    "state": "CA",
+    "zip_code": "92101",
+    "year_of_experience": 20,
+    "cost_efficiency": 5,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish"
+    ]
+  },
+  {
+    "name": "Kennedy",
+    "gender": "Female",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 4.2,
+    "city": "San Diego",
+    "state": "CA",
+    "zip_code": "92101",
+    "year_of_experience": 16,
+    "cost_efficiency": 5,
+    "specializations": [
+      "General Dentistry",
+      "Family Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "French"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Male",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.8,
+    "city": "San Diego",
+    "state": "CA",
+    "zip_code": "92101",
+    "year_of_experience": 17,
+    "cost_efficiency": 2,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  {
+    "name": "Johnson",
+    "gender": "Female",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 3.7,
+    "city": "San Diego",
+    "state": "CA",
+    "zip_code": "92101",
+    "year_of_experience": 11,
+    "cost_efficiency": 3,
+    "specializations": [
+      "General Dentistry",
+      "Cosmetic Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "German"
+    ]
+  },
+  {
+    "name": "Williams",
+    "gender": "Male",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 4.3,
+    "city": "San Diego",
+    "state": "CA",
+    "zip_code": "92101",
+    "year_of_experience": 18,
+    "cost_efficiency": 3,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "Italian"
+    ]
+  },
+  {
+    "name": "Kenneth",
+    "gender": "Female",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 4.0,
+    "city": "San Diego",
+    "state": "CA",
+    "zip_code": "92101",
+    "year_of_experience": 13,
+    "cost_efficiency": 5,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "Portuguese"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Male",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.6,
+    "city": "San Diego",
+    "state": "CA",
+    "zip_code": "92101",
+    "year_of_experience": 19,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Family Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Mandarin"
+    ]
+  },
+  {
+    "name": "Johnathan",
+    "gender": "Female",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 3.8,
+    "city": "Dallas",
+    "state": "TX",
+    "zip_code": "75201",
+    "year_of_experience": 9,
+    "cost_efficiency": 3,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English"
+    ]
+  },
+  {
+    "name": "Willow",
+    "gender": "Male",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 4.4,
+    "city": "Dallas",
+    "state": "TX",
+    "zip_code": "75201",
+    "year_of_experience": 20,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish"
+    ]
+  },
+  {
+    "name": "Kennedy",
+    "gender": "Female",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 4.1,
+    "city": "Dallas",
+    "state": "TX",
+    "zip_code": "75201",
+    "year_of_experience": 15,
+    "cost_efficiency": 2,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "French"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Male",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.7,
+    "city": "Dallas",
+    "state": "TX",
+    "zip_code": "75201",
+    "year_of_experience": 16,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Pediatric Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  {
+    "name": "Johnson",
+    "gender": "Female",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 3.9,
+    "city": "Dallas",
+    "state": "TX",
+    "zip_code": "75201",
+    "year_of_experience": 12,
+    "cost_efficiency": 3,
+    "specializations": [
+      "General Dentistry",
+      "Family Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "German"
+    ]
+  },
+  {
+    "name": "Williams",
+    "gender": "Male",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 4.5,
+    "city": "Dallas",
+    "state": "TX",
+    "zip_code": "75201",
+    "year_of_experience": 18,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "Italian"
+    ]
+  },
+  {
+    "name": "Kenneth",
+    "gender": "Female",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 4.2,
+    "city": "Dallas",
+    "state": "TX",
+    "zip_code": "75201",
+    "year_of_experience": 14,
+    "cost_efficiency": 3,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "Portuguese"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Male",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.8,
+    "city": "Dallas",
+    "state": "TX",
+    "zip_code": "75201",
+    "year_of_experience": 17,
+    "cost_efficiency": 3,
+    "specializations": [
+      "General Dentistry",
+      "Pediatric Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Mandarin"
+    ]
+  },
+  {
+    "name": "Johnathan",
+    "gender": "Female",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 3.7,
+    "city": "Dallas",
+    "state": "TX",
+    "zip_code": "75201",
+    "year_of_experience": 10,
+    "cost_efficiency": 4,
+    "specializations": [
+      "General Dentistry",
+      "Cosmetic Dentistry"
+    ],
+    "known_languages": [
+      "English"
+    ]
+  },
+  {
+    "name": "Willow",
+    "gender": "Male",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 4.3,
+    "city": "Dallas",
+    "state": "TX",
+    "zip_code": "75201",
+    "year_of_experience": 19,
+    "cost_efficiency": 5,
+    "specializations": [
+      "General Dentistry",
+      "Family Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish"
+    ]
+  },
+  {
+    "name": "Kennedy",
+    "gender": "Female",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 4.0,
+    "city": "San Jose",
+    "state": "CA",
+    "zip_code": "95101",
+    "year_of_experience": 13,
+    "cost_efficiency": 2,
+    "specializations": [
+      "General Dentistry",
+      "Cosmetic Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "French"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Male",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.6,
+    "city": "San Jose",
+    "state": "CA",
+    "zip_code": "95101",
+    "year_of_experience": 20,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Family Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish",
+      "French"
+    ]
+  },
+  {
+    "name": "Johnson",
+    "gender": "Female",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 3.8,
+    "city": "San Jose",
+    "state": "CA",
+    "zip_code": "95101",
+    "year_of_experience": 11,
+    "cost_efficiency": 4,
+    "specializations": [
+      "General Dentistry",
+      "Cosmetic Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "German"
+    ]
+  },
+  {
+    "name": "Williams",
+    "gender": "Male",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 4.4,
+    "city": "San Jose",
+    "state": "CA",
+    "zip_code": "95101",
+    "year_of_experience": 17,
+    "cost_efficiency": 4,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "Italian"
+    ]
+  },
+  {
+    "name": "Kenneth",
+    "gender": "Female",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 4.1,
+    "city": "San Jose",
+    "state": "CA",
+    "zip_code": "95101",
+    "year_of_experience": 15,
+    "cost_efficiency": 3,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "Portuguese"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Male",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.7,
+    "city": "San Jose",
+    "state": "CA",
+    "zip_code": "95101",
+    "year_of_experience": 18,
+    "cost_efficiency": 1,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English",
+      "Mandarin"
+    ]
+  },
+  {
+    "name": "Johnathan",
+    "gender": "Female",
+    "education": "DDS - Doctor of Dental Surgery",
+    "reviews": 3.9,
+    "city": "San Jose",
+    "state": "CA",
+    "zip_code": "95101",
+    "year_of_experience": 8,
+    "cost_efficiency": 2,
+    "specializations": [
+      "General Dentistry",
+      "Oral Surgery"
+    ],
+    "known_languages": [
+      "English"
+    ]
+  },
+  {
+    "name": "Willow",
+    "gender": "Male",
+    "education": "DMD - Doctor of Medicine in Dentistry",
+    "reviews": 4.5,
+    "city": "San Jose",
+    "state": "CA",
+    "zip_code": "95101",
+    "year_of_experience": 21,
+    "cost_efficiency": 3,
+    "specializations": [
+      "General Dentistry",
+      "Pediatric Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish"
+    ]
+  },
+  {
+    "name": "Kennedy",
+    "gender": "Female",
+    "education": "BDS - Bachelor of Dental Surgery",
+    "reviews": 4.2,
+    "city": "San Jose",
+    "state": "CA",
+    "zip_code": "95101",
+    "year_of_experience": 14,
+    "cost_efficiency": 3,
+    "specializations": [
+      "General Dentistry",
+      "Family Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "French"
+    ]
+  },
+  {
+    "name": "Katrina",
+    "gender": "Male",
+    "education": "DDS with Advanced Training",
+    "reviews": 4.8,
+    "city": "San Jose",
+    "state": "CA",
+    "zip_code": "95101",
+    "year_of_experience": 16,
+    "cost_efficiency": 3,
+    "specializations": [
+      "General Dentistry",
+      "Pediatric Dentistry"
+    ],
+    "known_languages": [
+      "English",
+      "Spanish",
+      "French"
+    ]
+  }
+]
